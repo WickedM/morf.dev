@@ -1,0 +1,367 @@
+/* __________________________________________________________
+
+
+- BASE
+- HEADER
+- PARTNES
+- SERVICES
+- FEATURES
+- APP LINKS
+- PRICES
+- ADVANTAGES
+- FEEDBACK
+- NEWS
+- TEAM
+- FOOTER
+
+
+__________________________________________________________ */
+
+
+/* BASE
+__________________________________________________________ */
+
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* HEADER
+__________________________________________________________ */
+
+@media (max-width: 1200px) {
+	.header .btn-default {
+		font-size: 14px;
+		padding: 20px 0px;
+	}
+}
+@media (max-width: 992px) {
+	.navbar-default .navbar-nav>li>a {
+		font-size: 10px;
+	}
+}
+@media (max-width: 768px) { 
+	.navbar-default .navbar-nav>li>a {
+		font-size: 12px;
+	}
+	.header {
+		height: auto;
+	}
+	.header h1 {
+		margin-top: 80px;
+		
+	}
+	.header .btn-default {
+		margin: 10px 0px;
+	}
+	.header-btns {
+		margin-top: 30px;
+	}
+	.watch-video {
+		margin-top: 110px;
+		margin-bottom: 100px;
+	}
+
+	.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+		border-radius: 3px;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu>li>a:active {
+		color: #eee;
+	}
+
+}
+@media (max-width: 360px) { 
+	font-size: 30px;
+}
+
+
+
+
+/* PARTNES
+__________________________________________________________ */
+@media (max-width: 1200px) {
+	
+}
+@media (max-width: 992px) {
+	section.partners {
+		height: 530px;
+	}
+	section.partners .partner  {
+		width: 50%;
+		float: left;
+		margin-top: 65px
+	}
+
+}
+@media (max-width: 768px) { 
+	
+}
+@media (max-width: 360px) { 
+	section.partners {
+		height: 1000px;
+	}
+	section.partners .partner  {
+		width: 100%;
+		float: left;
+		margin-top: 65px
+	}
+}
+
+
+
+/* SERVICES
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	
+}
+@media (max-width: 768px) { 
+	section.services {
+		padding: 40px 0px;
+	}
+}
+@media (max-width: 360px) { 
+
+}
+	
+
+
+
+/* FEATURES
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	section.features {
+		padding: 0px 0px;
+		background: #f7f7f7;
+	}
+	section.features .feature-item {
+		margin: 100px 0px;
+	}
+	section.features .feature-item h3 {
+		margin: 20px 0px;
+	}
+}
+@media (max-width: 768px) { 
+	
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+
+/* APP LINKS
+__________________________________________________________ */
+@media (max-width: 1200px) {
+	
+}
+@media (max-width: 992px) {
+	section.app-links {
+		padding: 60px 0px 100px;
+	}
+	section.app-links .get-btn {
+		margin: 50px 0px;
+		outline: 0;
+	}
+	section.app-links a.app-link.appstore {
+		float: none;
+	}
+	section.app-links a.app-link.google-play {
+		float: none;
+	}
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* PRICES
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	section.prices {
+		padding: 60px 0px 0px;
+	}
+	section.prices .prise-box {
+		margin-bottom: 80px;
+	}
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* ADVANTAGES
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	section.advantages {
+		padding: 60px 0px 0px;
+		border-top: 1px solid #e9e9e9;
+	}
+	section.advantages h2 {
+		margin-bottom: 80px;
+	}
+	section.advantages .advantage-item {
+		margin: 0px 0px 80px 0;
+		text-align: center;
+	}
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* FEEDBACK
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* NEWS
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	section.news {
+		padding: 60px 0 0px;
+	}
+		section.news h2 {
+			padding-bottom: 60px;
+		}
+	.news-item {
+		text-align: center;
+		margin-bottom: 60px;
+	}
+	section.news .news-item .news-title h3 {
+		padding: 10px 0px;
+	}
+	section.news .news-item a.read-more {
+		margin-top: 15px;
+	}
+}
+@media (max-width: 768px) { 
+
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* TEAM
+__________________________________________________________ */
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+	section.team {
+		padding: 60px 0px 60px;
+		border-top: 1px solid #e9e9e9;
+	}
+		section.team h2 {
+			padding-bottom: 60px;
+		}
+}
+@media (max-width: 768px) { 
+	.team-list {
+		flex-basis: 
+	}
+	section.team {
+		padding: 60px 0px 0px;
+		border-top: 1px solid #e9e9e9;
+	}
+	.team-item {
+		width: 100%;
+		float: left;
+		clear: both;
+		margin-bottom: 60px;
+	}
+}
+@media (max-width: 360px) { 
+	
+}
+
+
+/* FOOTER
+__________________________________________________________ */
+@media (max-width: 1200px) {
+	footer {
+		margin-top: 250px;
+		background: #222222;
+		padding: 40px 0px;
+	}
+}
+@media (max-width: 992px) {
+	.logo-footer {
+		margin: 0 auto;
+		float: none;
+		display: block;
+	}
+	footer p.copyright {
+		text-align: center;
+		margin: 40px 0px;
+	}
+	footer .social-icons {
+		width: 100%;
+	}
+		footer .social-icons ul {
+			display: table;
+			margin: 50px auto 70px;
+			text-align: center;
+		}
+	footer .nav-footer {
+		margin: 0 auto;
+		float: none;
+	}
+	footer .nav-footer li {
+		float: none;
+		margin: 10px 0px;
+		text-align: center;
+	}
+}
+@media (max-width: 768px) { 
+	footer {
+		clear: both;
+	}
+}
+@media (max-width: 360px) { 
+	
+}
